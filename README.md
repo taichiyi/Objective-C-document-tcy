@@ -2,7 +2,7 @@
 
 # Objective-C
 
-[NSLog](#NSLog) 
+[NSLog](#nslog) 
 ## NSLog
 
 打印
@@ -13,6 +13,7 @@
 ```
 
 ### 实例
+``` objective-c
 NSLog(@"字符串:%@",name);
 NSLog(@"字符:%c",a);
 NSLog(@"布尔值:%i",isShow);
@@ -23,3 +24,7 @@ NSLog(@"科学技术法:%e",f);
 NSLog(@"科学技术法(用最简短的方式):%g",f);
 NSLog(@"同时打印两个整数：i＝%i,f=%f",i,f);
 ```
+
+## 参考链接
+
+[http://www.cnblogs.com/qingyuan/p/3524791.html](http://www.cnblogs.com/qingyuan/p/3524791.html)  
